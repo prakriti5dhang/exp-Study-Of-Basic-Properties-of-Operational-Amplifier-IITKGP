@@ -16,7 +16,7 @@ L1-L3, L4-L7, L4-L5, L6-L9, L8-L12.(For eg. click on 1 and then drag to 3 and so
                                     
 
 <div align="center">
-<img src="images/inverting_opamp_pr.png" width="50%">
+<img src="images/inverting_opamp_pr.png" width="40%">
 <p>Figure:1</p>
 </div>
 
@@ -34,21 +34,11 @@ L1-L8, L4-L7, L4-L5, L6-L9, L3-L12.(For eg. click on 1 and then drag to 3 and so
 10. Repeat the experiment for another set of resistance value.
 
 <div align="center">
-<img src="images/image/noninverting_opamp_pr.png" width="50%">
+<img src="images/noninverting_opamp_pr.png" width="40%">
 <p>Figure: 2</p>
 </div>
 
-### Zener Characteristics
-1. Select the diode
-2. Set the rheostat Rh=1 Ω
-3. By adjusting the rheostat, voltmeter reading is increased from 0 and in each time note the corresponding reading in milliammeter.
-4. Take the readings and note Voltmeter reading across Zener diode and Ammeter reading.
-5. Plot the V-I graph and observe the change.
 
-<div align="center">
-<img src="images/zener_ch.png" width="50%">
-<p>Figure: 3</p>
-</div>
 
 
 
