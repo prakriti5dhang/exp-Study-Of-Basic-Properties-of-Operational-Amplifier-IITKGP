@@ -38,6 +38,8 @@ L1-L8, L4-L7, L4-L5, L6-L9, L3-L12.(For eg. click on 1 and then drag to 3 and so
 <p>Figure: 2</p>
 </div>
 
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 
 
 

@@ -56,3 +56,5 @@ $$and as we know Gain A_{cl}=\frac{V_{out}}{V_{in}}$$
 $$A_{cl}=  \frac{V_{out}}{V_{in}} = \frac{(R_2+R_F)}{R_2} = 1+\frac{R_F}{R_2}$$   
 $$and Output Voltage V_{out} is given by:$$
 $$V_{out} =[1+\frac{R_F}{R_2}]*V_{in}$$ 
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
